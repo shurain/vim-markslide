@@ -1,3 +1,0 @@
-[submodule "plugin/markslide"]
-	path = plugin/markslide
-	url = git://github.com/shurain/markslide.git

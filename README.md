@@ -22,6 +22,11 @@ Using [pathogen.vim](https://github.com/tpope/vim-pathogen) is recommended.
     cd vim-markslide
     bash install.sh
 
+Usage
+------
+
+Enter ex mode and use `:Mm` command to view the slide.
+
 OS
 ----
 
